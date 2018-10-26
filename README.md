@@ -1,6 +1,7 @@
 # AI4ALL2018
 * [Slides Sessió 1](https://docs.google.com/presentation/d/1zOx6nmaeeMjq4fPArvQbVEBwJKI1XZJvDR6APWgr-Rw/edit?usp=sharing)
 * [Slides Sessió 2](https://docs.google.com/presentation/d/1az5jWOnGyJAlq8AsVJHiZsr-AKvuI65DH1qRMBio-6k/edit?usp=sharing)
+* [Slides Sessió 3](https://docs.google.com/presentation/d/1NTGQ3y0Ct8hrGIvYODjxs_xQFAHFrSrj5ZHhgdyMqUM/edit?usp=sharing)
 
 ## Instruccions per a executar exemples en format `.ipynb`:
 1. Executar jupyter notebook (En windows ve instal·lat amb Anaconda, en linux i mac cal fer ``conda install jupyter`` a la terminal.)
